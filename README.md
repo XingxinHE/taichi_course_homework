@@ -7,7 +7,7 @@
 ## 成功效果展示
 没错，你看到的不仅仅是一张黑色的图片，它是宇宙。
 
-![fractal demo](./data/fractal.jpg)
+![fractal demo](./data/universus.png)
 ## 整体结构（Optional）
 
 ```
@@ -19,3 +19,9 @@
 
 ## 运行方式
 `python3 main.py`
+
+## 调查问卷
+以上这个project你认为：
+ - A. 瞎搞
+ - B. 嚯，有想法
+ - C. 这个"宇宙"是缓兵之计，后面肯定会有一个正儿八经的作业。
